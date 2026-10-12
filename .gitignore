@@ -1,0 +1,35 @@
+  GNU nano 8.7.1                    新缓冲区 *                            
+# PyCharm
+.idea/
+*.iml
+
+# Python  缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 虚拟环境
+venv/
+env/
+.venv/
+ENV/
+
+# 日志临时文件
+*.log
+*.tmp
+*.bak
+*~
+
+# 系统文件
+Thumbs.db
+.DS_Store
+
+# 打包产物
+dist/
+build/
+
+# 隐私密钥
+.env
+secret.py
+
